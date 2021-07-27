@@ -1,1 +1,6 @@
-# fraud-detection-study-plan
+<div dir="rtl" align='justify'>
+
+# مطالعات Fraud Detection
+
+
+</div>
