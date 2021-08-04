@@ -38,6 +38,12 @@
 ~590K transactions, ~400 columns, [Dataset link](https://www.kaggle.com/c/ieee-fraud-detection)
 - [ ] List all related works
 - [ ] Read about sponsor of challenge
+- [ ] Credit Card Fraud Detection Based on Machine and Deep Learning, [2020](https://ieeexplore.ieee.org/abstract/document/9078935)
+- [ ] Credit Card Fraud Detection Using Lightgbm Model [2020](https://ieeexplore.ieee.org/abstract/document/9134072)
+- [ ] An Optimized LightGBM Model for Fraud Detection [2020](https://iopscience.iop.org/article/10.1088/1742-6596/1651/1/012111/meta)
+- [ ] Customer Transaction Fraud Detection Using Xgboost Model [2020](https://ieeexplore.ieee.org/abstract/document/9103880)
+- [ ] Credit Card Fraud Detection Based on Deep Neural Network Approach [2021](https://ieeexplore.ieee.org/abstract/document/9464555)
+
 
 ## Kaggle dataset: ULB
 
