@@ -43,6 +43,31 @@
 - [ ] An Optimized LightGBM Model for Fraud Detection [2020](https://iopscience.iop.org/article/10.1088/1742-6596/1651/1/012111/meta)
 - [ ] Customer Transaction Fraud Detection Using Xgboost Model [2020](https://ieeexplore.ieee.org/abstract/document/9103880)
 - [ ] Credit Card Fraud Detection Based on Deep Neural Network Approach [2021](https://ieeexplore.ieee.org/abstract/document/9464555)
+- [ ] Intelligent Transaction System for Fraud Detection using Deep Learning Networks [2021](https://iopscience.iop.org/article/10.1088/1742-6596/1916/1/012031/meta)
+- [ ] A StackNet Based Model for Fraud Detection [2021](https://ieeexplore.ieee.org/abstract/document/9479505)
+- [ ] Explainable Machine Learning for Fraud Detection [2021](https://arxiv.org/abs/2105.06314)
+- [ ] Financial Fraud Detection with Improved Neural Arithmetic Logic Units [2020](https://link.springer.com/chapter/10.1007/978-3-030-66981-2_4)
+- [ ] Influence of Optimizing XGBoost to handle Class Imbalance in Credit Card Fraud Detection [2020](https://ieeexplore.ieee.org/abstract/document/9214206)
+- [ ] Interpretable Meta-Measure for Model Performance [2020](https://arxiv.org/abs/2006.02293)
+- [ ] Comparing ROC Curve based Thresholding Methods in Online Transactions Fraud Detection System using Deep Learning [2021](https://ieeexplore.ieee.org/abstract/document/9397167)
+- [ ] EPP: interpretable score of model predictive power [2019](https://arxiv.org/abs/1908.09213)
+- [ ] Efficient Fraud Detection Classification: Class Imbalance and Attribute Correlations [2020](https://francis-press.com/papers/2505)
+- [ ] Adversarial Attacks for Tabular Data: Application to Fraud Detection and Imbalanced Data [2021](https://arxiv.org/abs/2101.08030)
+- [ ] Homomorphic SVM Inference for Fraud Detection [2021](https://ruidera.uclm.es/xmlui/handle/10578/28664)
+- [ ] Label noise injection methods for model robustness assessment in fraud detection datasets [2021](https://run.unl.pt/handle/10362/112794)
+- [ ] Uncertainty-Aware Credit Card Fraud Detection Using Deep Learning [2021](https://arxiv.org/abs/2107.13508)
+  
+- [ ] Detecting credit card fraud An analysis of fraud detection techniques[2020](https://commons.lib.jmu.edu/cgi/viewcontent.cgi?article=1097&context=honors202029)
+- [ ] Non-Parametric Stochastic Sequential Assignment With Random Arrival Times [2021](https://arxiv.org/abs/2106.04944)
+- [ ] TEDD: Robust Detection of Unstable Temporal Features [2020](https://ieeexplore.ieee.org/abstract/document/9346515)
+- [ ] LiteMORT: A memory efficient gradient boosting tree system on adaptive compact distributions [2020](https://arxiv.org/abs/2001.09419)
+- [ ] C-SMOTE: Continuous Synthetic Minority Oversampling for Evolving Data Streams [2020](https://ieeexplore.ieee.org/abstract/document/9377768)
+- [ ] Fraudulent Transactions Detection in Credit Card by using Data Mining Methods: A Review [2021](https://www.researchgate.net/publication/348732395_Fraudulent_Transactions_Detection_in_Credit_Card_by_using_Data_Mining_Methods_A_Review)
+
+
+
+
+
 
 
 ## Kaggle dataset: ULB
