@@ -8,7 +8,7 @@ assignees: mhaghighat20
 ---
 
 ## مشخصات منبع
-`[FILL HERE]`
+`[FILL_HERE]`
 
 ## مراحل مطالعه
   - [ ] First pass
@@ -22,4 +22,5 @@ assignees: mhaghighat20
 
  
 ## احتمال کمک به خروجی نهایی
+  `[FILL_HERE]`/10
   - [ ] Final Evaluation Completed
