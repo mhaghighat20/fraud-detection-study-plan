@@ -1,7 +1,7 @@
 ---
 name: Reading report template
 about: گزارش پیشرفت مطالعه
-title: Read report for [RESOURCE NAME HERE]
+title: Read report for [RESOURCE_NAME_HERE]
 labels: ''
 assignees: mhaghighat20
 
