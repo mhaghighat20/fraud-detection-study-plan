@@ -32,6 +32,7 @@ assignees: mhaghighat20
 
   - [ ] Points Completed
 
+## مطالعات جانبی
 
 ## احتمال کمک به خروجی نهایی
   `[FILL_HERE]`/10
