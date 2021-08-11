@@ -17,10 +17,22 @@ assignees: mhaghighat20
   - [ ] Check code
   - [ ] Check references
   
+<div dir="rtl" align='justify'>
+
 ## خلاصه و نکات مهم
+
+* 
+*
+* پارامتر ها:
+  
+* نتیجه:
+  
+  
+</div>
+
   - [ ] Points Completed
 
- 
+
 ## احتمال کمک به خروجی نهایی
   `[FILL_HERE]`/10
   - [ ] Final Evaluation Completed
