@@ -18,12 +18,12 @@
 - [ ] A survey of machine-learning and nature-inspired based credit card fraud detection techniques, [published in 2016](https://link.springer.com/article/10.1007/s13198-016-0551-y)
   - [ ] First pass
   - [ ] Second pass
-  - [ ] Thrid pass
+  - [ ] Third pass
   - [ ] Check references
 - [ ] How Artificial Intelligence and machine learning research impacts payment card fraud detection: A survey and industry benchmark, [published in 2018](https://www.sciencedirect.com/science/article/abs/pii/S0952197618301520)
   - [x] First pass
   - [x] Second pass
-  - [ ] Thrid pass
+  - [ ] Third pass
   - [ ] Check references
 
 
@@ -89,4 +89,6 @@
 ### Interpretable
 
 ### AML
+
+### Fraud Detection on Stock
 
