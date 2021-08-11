@@ -8,7 +8,7 @@ assignees: mhaghighat20
 ---
 
 ## مشخصات منبع
-Credit Card Fraud Detection Based on Machine and Deep Learning, [2020](https://ieeexplore.ieee.org/abstract/document/9078935)
+`[FILL HERE]`
 
 ## مراحل مطالعه
   - [ ] First pass
