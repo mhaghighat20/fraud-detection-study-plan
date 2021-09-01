@@ -66,7 +66,11 @@
 
 
 
-
+### Related Works on Medium & Towards Data Science
+- [ ] Reviewing IEEE-CIS Fraud Detection : Competition on Kaggle — XGBoost implementation — A Case Study [2019](https://medium.com/@guildbilla/reviewing-ieee-cis-fraud-detection-competition-on-kaggle-top-2-solution-xgboost-b31e77b377b9)
+- [ ] IEEE-CIS Fraud Detection - Top 5% Solution [2021](https://towardsdatascience.com/ieee-cis-fraud-detection-top-5-solution-5488fc66e95f)
+- [ ] IEEE-CIS Fraud Detection - by lightgbm  [2020](https://towardsdatascience.com/ieee-cis-fraud-detection-by-lightgbm-b8956a8e4b53)
+- [ ] Fraud Detection [Tag](https://towardsdatascience.com/tagged/fraud-detection) on Towards Data Science
 
 
 
@@ -79,6 +83,24 @@
   - [ ] Third pass
 - [ ] Check research collboarations on Acknowledgements section
 - [ ] Check related [fraud-detection-handbook](https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html)
+
+## Fraud Detection tools & products
+
+- [ ] [castle](https://castle.io/)
+
+- [ ] [sumsub](https://sumsub.com/payment-fraud/)
+- [ ] [SEON](https://learn.seon.io/payment-fraud-prevention-solution)
+- [ ] [BotGuard](https://www.humansecurity.com/products/botguard-applications)
+- [ ] [ravelin](https://www.ravelin.com/insights/online-payment-fraud)
+- [ ] [stripe radar](https://stripe.com/radar)
+
+
+## Other descriptive resources
+
+- [ ] [Credit Card Fraud Detection: Top ML Solutions in 2021](https://spd.group/machine-learning/credit-card-fraud-detection/)
+
+- [ ] [Combating payments fraud and enhancing customer experience](https://www.mckinsey.com/industries/financial-services/our-insights/combating-payments-fraud-and-enhancing-customer-experience)
+
 
 ## Related topics
 
