@@ -70,6 +70,7 @@
 - [ ] Reviewing IEEE-CIS Fraud Detection : Competition on Kaggle — XGBoost implementation — A Case Study [2019](https://medium.com/@guildbilla/reviewing-ieee-cis-fraud-detection-competition-on-kaggle-top-2-solution-xgboost-b31e77b377b9)
 - [ ] IEEE-CIS Fraud Detection - Top 5% Solution [2021](https://towardsdatascience.com/ieee-cis-fraud-detection-top-5-solution-5488fc66e95f)
 - [ ] IEEE-CIS Fraud Detection - by lightgbm  [2020](https://towardsdatascience.com/ieee-cis-fraud-detection-by-lightgbm-b8956a8e4b53)
+- [ ] Adversarial Validation [2020](https://towardsdatascience.com/adversarial-validation-ca69303543cd)
 - [ ] Fraud Detection [Tag](https://towardsdatascience.com/tagged/fraud-detection) on Towards Data Science
 
 
