@@ -73,6 +73,11 @@
 - [ ] Fraud Detection [Tag](https://towardsdatascience.com/tagged/fraud-detection) on Towards Data Science
 
 
+### Model Evaluation Metrics
+- [ ] [Credit Card Fraud Detection: Choosing the Right Metrics for Model ](https://medium.com/analytics-vidhya/credit-card-fraud-detection-in-depth-study-evaluating-the-classification-model-a3680a5a5897)
+- [ ] [Recall, Precision, F1, ROC, AUC, and everything](https://medium.com/swlh/recall-precision-f1-roc-auc-and-everything-542aedf322b9)
+
+
 
 ## Kaggle dataset: ULB
 
