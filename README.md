@@ -86,7 +86,7 @@
 
 ## Fraud Detection tools & products
 
-- [ ] [castle](https://castle.io/)
+- [ ] [castle](https://castle.io/use-cases/transaction-fraud/)
 
 - [ ] [sumsub](https://sumsub.com/payment-fraud/)
 - [ ] [SEON](https://learn.seon.io/payment-fraud-prevention-solution)
